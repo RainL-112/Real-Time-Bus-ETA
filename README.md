@@ -57,6 +57,7 @@ This application uses the following public APIs:
 1. **KMB Open Data API**:
    - Bus stop locations: `https://data.etabus.gov.hk/v1/transport/kmb/stop`
    - Bus arrival times: `https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/{stop_id}`
+
      [KMB ETA API Specification](https://data.etabus.gov.hk/datagovhk/kmb_eta_api_specification.pdf)
 
 2. **OpenStreetMap APIs**:
